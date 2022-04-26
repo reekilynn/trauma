@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## 曾造成我精神创伤的女性们又来关注我，可惜为时已晚
 
-You can use the [editor on GitHub](https://github.com/reekilynn/trauma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 作品及翻译信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 作者：御堂ユラギ
+* 插画：緜
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Web版翻译：sirbine
+* 文库翻译：reekilynn
+* 图源&技术支持：
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
+* 仅供个人学习交流使用，禁止一切商业用途
+* 下载后请在24小时内删除
+* 请尊重翻译者的辛勤劳动
+* 转载时请注明以上信息
+* 本翻译严禁转载至轻之国度和哔哩轻小说
 
-- Bulleted
-- List
+***
 
-1. Numbered
-2. List
+### 第一卷
 
-**Bold** and _Italic_ and `Code` text
+  * 卷首彩插
+  * 序幕
+  * 1 为时已晚的他
+  * 2 姐姐的样子，母亲的样子
+  * 3 谎言的代价
+  * 4 真心与猜忌
+  * 5 天降奇冤
+  * 6 拒绝球
+  * 7 摇曳的灯火
+  * 尾声
+  * 后记
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reekilynn/trauma/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
