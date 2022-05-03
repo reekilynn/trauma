@@ -10,6 +10,7 @@
 * 图源：rkl
 * Web版翻译：sirbine
 * 文库版翻译：rkl
+* 校对润色：sirbine
 * 修图：asakusa
 * 技术支持：Andromeda
 * epub制作：
@@ -27,7 +28,7 @@
 ### 第一卷
 
   * 卷首彩插
-  * 序幕
+  * [序幕](vol1/00-prologue.md)
   * 1 为时已晚的他
   * 2 本该是姐姐和母亲的她们
   * 3 谎言的代价
