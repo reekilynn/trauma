@@ -9,7 +9,7 @@
 
 * 图源：rkl
 * Web版翻译：sirbine
-* 文库版翻译：rkl
+* 文库版翻译：rkl sirbine
 * 校对润色：sirbine
 * 修图：asakusa
 * 技术支持：Andromeda
