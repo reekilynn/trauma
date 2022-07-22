@@ -1,3 +1,13 @@
+![trauma_vol1_cover](illust/trauma_vol1_cover.jpg)
+
+![trauma_vol1_illust_01](illust/trauma_vol1_illust_01.jpg)
+
+![trauma_vol1_illust_02](illust/trauma_vol1_illust_02.jpg)
+
+![trauma_vol1_illust_03](illust/trauma_vol1_illust_03.jpg)
+
+![trauma_vol1_illust_04](illust/trauma_vol1_illust_04.jpg)
+
 ## 序幕
 
 「我已经决定和学长交往了。」
