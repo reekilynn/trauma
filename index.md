@@ -8,9 +8,9 @@
 ***
 
 * 图源：rkl
-* Web版翻译：sirbine
-* 文库版翻译：rkl sirbine
-* 校对润色：sirbine
+* Web版翻译：Maffty
+* 文库版翻译：rkl Maffty
+* 校对润色：Maffty
 * 修图：asakusa
 * 技术支持：Andromeda
 * epub制作：Unlight
@@ -37,6 +37,6 @@
   * [第七章 摇曳的灯火](vol1/07.md)
   * [尾声](vol1/08.md)
   * [后记](vol1/09-atogaki.md)
-  * 译者后记
+  * [译者后记](vol1/10-postscript.md)
 
     
